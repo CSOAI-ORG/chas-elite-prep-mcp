@@ -33,3 +33,5 @@ Pairs with `meok-attestation-api` for cryptographically signed compliance certif
 ## License
 
 MIT © MEOK AI Labs
+
+<!-- mcp-name: io.github.CSOAI-ORG/chas-elite-prep-mcp -->
