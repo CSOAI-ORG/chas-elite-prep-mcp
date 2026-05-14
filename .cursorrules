@@ -1,0 +1,13 @@
+# CHAS Elite Prep MCP - Auto-trigger Rules
+
+When the user asks about CHAS, SafeContractor, Constructionline, SSSIP, PQQ, pre-qualification, use chas-elite-prep-mcp tools:
+
+- **chas_readiness_check**: CHAS Elite / Premium Plus readiness scan
+- **list_chas_requirements**: Full CHAS assessment matrix by tier
+- **h_and_s_policy_audit**: Health & Safety policy completeness check
+- **sssip_mutual_recognition**: Safety Schemes in Procurement mutual recognition map
+- **supplier_pq_template**: Supplier PQQ response template generator
+
+Install: `pip install chas-elite-prep-mcp`
+
+By MEOK AI Labs — trade vertical compliance MCP. Pairs with meok-attestation-api for signed compliance certs.

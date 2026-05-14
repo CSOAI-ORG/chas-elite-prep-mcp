@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1",
+  "name": "chas-elite-prep-mcp",
+  "version": "1.0.0",
+  "title": "CHAS Elite Prep",
+  "description": "CHAS / SafeContractor / Constructionline pre-qualification.",
+  "homepage": "https://meok.ai",
+  "repository": "https://github.com/meok-ai-labs/chas-elite-prep-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "MEOK AI Labs",
+    "email": "hello@meok.ai",
+    "url": "https://meok.ai"
+  },
+  "categories": [
+    "trade"
+  ],
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "ai-governance",
+    "compliance",
+    "meok"
+  ],
+  "support_url": "https://github.com/meok-ai-labs",
+  "contact_email": "hello@meok.ai",
+  "endpoints": {
+    "free_tier": {
+      "calls_per_day": 10
+    },
+    "pro": "https://buy.stripe.com/14A4gB3K4eUWgYR56o8k836",
+    "enterprise": "hello@meok.ai"
+  }
+}

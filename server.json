@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.CSOAI-ORG/chas-elite-prep-mcp",
+  "version": "1.0.0",
+  "description": "CHAS / SafeContractor / Constructionline pre-qualification preparation. Health & safety, environ...",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CSOAI-ORG/chas-elite-prep-mcp",
+    "source": "https://github.com/CSOAI-ORG/chas-elite-prep-mcp"
+  },
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "chas-elite-prep-mcp",
+      "version": "1.0.0",
+      "runtimeHint": "python",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
