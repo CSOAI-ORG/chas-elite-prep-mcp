@@ -1,0 +1,28 @@
+{
+  "name": "chas-elite-prep-mcp",
+  "title": "Chas Elite Prep Mcp",
+  "description": "CHAS / SafeContractor / Constructionline pre-qualification preparation. Health & safety, environmental, equality, financial assessment.",
+  "version": "1.0.4",
+  "homepage": "https://meok.ai",
+  "license": "MIT",
+  "transport": {
+    "type": "stdio"
+  },
+  "tools": [
+    {
+      "name": "chas_readiness_check"
+    },
+    {
+      "name": "list_chas_requirements"
+    },
+    {
+      "name": "h_and_s_policy_audit"
+    },
+    {
+      "name": "sssip_mutual_recognition"
+    },
+    {
+      "name": "supplier_pq_template"
+    }
+  ]
+}

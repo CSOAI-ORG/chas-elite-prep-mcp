@@ -1,0 +1,28 @@
+name: chas-elite-prep-mcp
+description: 'MCP server: chas-elite-prep-mcp'
+version: 1.0.5
+author: MEOK AI Labs
+homepage: https://safetyof.ai
+repository: https://github.com/MEOK-AI-Labs/chas-elite-prep-mcp
+license: MIT
+categories:
+- compliance
+- governance
+tools:
+- name: chas_readiness_check
+  description: CHAS Elite / Premium Plus readiness scan
+- name: list_chas_requirements
+  description: Full CHAS assessment matrix by tier
+- name: h_and_s_policy_audit
+  description: Health & Safety policy completeness check
+- name: sssip_mutual_recognition
+  description: Safety Schemes in Procurement mutual recognition map
+- name: supplier_pq_template
+  description: Supplier PQQ response template generator
+build:
+  type: python
+  entrypoint: server.py
+  dependencies:
+  - mcp>=1.0.0
+runtime:
+  python: '>=3.10'
