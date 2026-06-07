@@ -13,7 +13,7 @@ mcp-name: io.github.CSOAI-ORG/chas-elite-prep-mcp
 
 > ## Buy Starter — £29/mo
 > **Signed attestations + unlimited audits + email support.**
-> 👉 **[Subscribe at meok.ai](https://buy.stripe.com/9B6aEZ94ocMO6kdcyQ8k900)** — instant HMAC signing key + Stripe-managed billing.
+> 👉 **[Subscribe at meok.ai](https://buy.stripe.com/5kQ6oJ0xS3ce8sl7ew8k91j)** — instant HMAC signing key + Stripe-managed billing.
 >
 > Free tier remains MIT-licensed and zero-config. Upgrade only when you need signed compliance artefacts for audit.
 
@@ -51,7 +51,7 @@ npx -y @smithery/cli@latest install chas-elite-prep-mcp --client claude
 - [API Reference](https://api.meok.ai)
 - [EU AI Act Compliance Guide](https://councilof.ai/compliance)
 - **Free**: 10 calls/day
-- **Pro** £79/mo: unlimited + signed attestations. [Subscribe](https://buy.stripe.com/00wfZjcgAeUW4c5cyQ8k90K)
+- **Pro** £79/mo: unlimited + signed attestations. [Subscribe](https://buy.stripe.com/5kQ6oJ0xS3ce8sl7ew8k91j)
 - **Enterprise** £1,499/mo: white-label + on-premise. hello@meok.ai
 
 ## 🛡️ Compliance
@@ -103,9 +103,9 @@ MIT © [CSOAI-ORG](https://github.com/CSOAI-ORG)
 
 | Tier | Price | What you get | Stripe |
 |---|---|---|---|
-| Smoke test | **£1** | Signed sample MCP-Hardening report + Article 50 PDF | <https://buy.stripe.com/dRmcN75ScdQS7oh1Uc8k90U> |
-| Quick Kit | **£9** | EU AI Act Article 50 implementation guide (C2PA + EU-Icon) | <https://buy.stripe.com/cNi00la8s1460ZT0Q88k90V> |
-| Founder Call | **£29** | 30-min 1-on-1 with the founder | <https://buy.stripe.com/8x228ta8s6oqbExaqI8k90W> |
+| Smoke test | **£1** | Signed sample MCP-Hardening report + Article 50 PDF | <https://buy.stripe.com/5kQ6oJ0xS3ce8sl7ew8k91j> |
+| Quick Kit | **£9** | EU AI Act Article 50 implementation guide (C2PA + EU-Icon) | <https://buy.stripe.com/5kQ6oJ0xS3ce8sl7ew8k91j> |
+| Founder Call | **£29** | 30-min 1-on-1 with the founder | <https://buy.stripe.com/5kQ6oJ0xS3ce8sl7ew8k91j> |
 
 > Refundable. UK Stripe — VAT-clean. Builds on the 81-MCP MEOK fleet.
 > Verify any signed report at <https://meok.ai/verify>.
