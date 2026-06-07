@@ -1,0 +1,23 @@
+{
+  "acpVersion": "0.1",
+  "agent": {
+    "name": "chas-elite-prep-mcp",
+    "description": "CHAS / SafeContractor / Constructionline pre-qualification preparation. Health & safety, environ...",
+    "version": "1.0.4",
+    "provider": "MEOK AI Labs",
+    "interfaces": [
+      {
+        "type": "mcp",
+        "transport": "stdio",
+        "package": "chas-elite-prep-mcp"
+      }
+    ],
+    "capabilities": [
+      "chas_readiness_check",
+      "list_chas_requirements",
+      "h_and_s_policy_audit",
+      "sssip_mutual_recognition",
+      "supplier_pq_template"
+    ]
+  }
+}
