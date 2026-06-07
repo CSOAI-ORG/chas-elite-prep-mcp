@@ -1,0 +1,32 @@
+# Chas Elite Prep MCP
+
+> CHAS / SafeContractor / Constructionline pre-qualification prep MCP
+
+`chas-elite-prep-mcp` is a Model Context Protocol (MCP) server by MEOK AI Labs.
+
+## Install
+
+```bash
+pip install chas-elite-prep-mcp
+```
+
+Or run without installing:
+
+```bash
+uvx chas-elite-prep-mcp
+```
+
+## Tools
+
+- `chas_readiness_check` — CHAS Elite / Premium Plus readiness scan
+- `list_chas_requirements` — Full CHAS assessment matrix by tier
+- `h_and_s_policy_audit` — Health & Safety policy completeness check
+- `sssip_mutual_recognition` — Safety Schemes in Procurement mutual recognition map
+- `supplier_pq_template` — Supplier PQQ response template generator
+
+## Links
+
+- Source: https://github.com/CSOAI-ORG/chas-elite-prep-mcp
+- PyPI: https://pypi.org/project/chas-elite-prep-mcp/
+- MEOK AI Labs: https://meok.ai
+- Council of AI: https://councilof.ai
