@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "chas-elite-prep-mcp"
 readme = "README.md"
-version = "1.0.4"
+version = "1.0.7"
 description = "CHAS / SafeContractor / Constructionline pre-qualification preparation. Health & safety, environmental, equality, financial assessment."
 license = {file = "LICENSE"}
 requires-python = ">=3.10"
