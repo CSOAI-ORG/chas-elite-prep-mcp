@@ -5,7 +5,8 @@
   "description": "CHAS / SafeContractor / Constructionline pre-qualification preparation. Health & safety, environ...",
   "repository": {
     "url": "https://github.com/CSOAI-ORG/chas-elite-prep-mcp",
-    "source": "github"
+    "source": "github",
+    "id": "1238468345"
   },
   "packages": [
     {
