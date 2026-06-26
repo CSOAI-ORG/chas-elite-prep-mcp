@@ -3,7 +3,7 @@ description: 'MCP server: chas-elite-prep-mcp'
 version: 1.0.5
 author: MEOK AI Labs
 homepage: https://safetyof.ai
-repository: https://github.com/MEOK-AI-Labs/chas-elite-prep-mcp
+repository: https://github.com/CSOAI-ORG/chas-elite-prep-mcp
 license: MIT
 categories:
 - compliance
