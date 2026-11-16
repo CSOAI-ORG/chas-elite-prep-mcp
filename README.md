@@ -3,7 +3,6 @@
 # Chas Elite Prep MCP
 
 [![MEOK AI Labs](https://img.shields.io/badge/MEOK-AI%20Labs-667eea)](https://meok.ai)
-[![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Compliant-22c55e)](https://councilof.ai)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PyPI](https://img.shields.io/badge/PyPI-Install-3775a9)](https://pypi.org/project/chas_elite_prep_mcp/)
 mcp-name: io.github.CSOAI-ORG/chas-elite-prep-mcp
@@ -11,11 +10,9 @@ mcp-name: io.github.CSOAI-ORG/chas-elite-prep-mcp
 # CHAS Elite Prep MCP
 
 
-> ## Buy Starter — £29/mo
 > **Signed attestations + unlimited audits + email support.**
-> 👉 **[Subscribe at meok.ai](https://buy.stripe.com/aFa7sNcgAdQS0ZT1Uc8k91t)** — instant HMAC signing key + Stripe-managed billing.
+> 👉 **[Subscribe at meok.ai](https://meok.ai/pricing)** — instant HMAC signing key + Stripe-managed billing.
 >
-> Free tier remains MIT-licensed and zero-config. Upgrade only when you need signed compliance artefacts for audit.
 
 [![PyPI](https://img.shields.io/pypi/v/chas-elite-prep-mcp)](https://pypi.org/project/chas-elite-prep-mcp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -51,8 +48,6 @@ npx -y @smithery/cli@latest install chas-elite-prep-mcp --client claude
 - [API Reference](https://api.meok.ai)
 - [EU AI Act Compliance Guide](https://councilof.ai/compliance)
 - **Free**: 10 calls/day
-- **Pro** £79/mo: unlimited + signed attestations. [Subscribe](https://buy.stripe.com/aFa7sNcgAdQS0ZT1Uc8k91t)
-- **Enterprise** £1,499/mo: white-label + on-premise. hello@meok.ai
 
 ## 🛡️ Compliance
 
@@ -66,14 +61,11 @@ This MCP server is built with **EU AI Act compliance** built-in:
 
 Need help getting compliant? **[Book a free 15-min diagnostic →](https://cal.com/csoai/august-audit)**
 
-## 🏢 Enterprise
+## How MEOK charges
 
-Need custom development, SLA guarantees, or white-label deployment?
+MEOK has no subscriptions and no tiers. You pay per job, and only when the agreed artifact has been delivered to you. There is no public price list. See <https://meok.ai/pricing>.
 
-- **Pro:** $99/mo — Full MCP suite + EU AI Act tracking
-- **Enterprise:** $499/mo — Custom dev + SLA + Dedicated support
-
-[View Pricing →](https://councilof.ai/pricing) | [Contact Sales →](mailto:sales@csoai.org)
+This repository's source is MIT-licensed and free to self-host.
 
 ## 🤝 Part of the MEOK Ecosystem
 
@@ -97,20 +89,6 @@ MIT © [CSOAI-ORG](https://github.com/CSOAI-ORG)
 </p>
 <!-- mcp-name: io.github.CSOAI-ORG/chas-elite-prep-mcp -->
 
-<!-- BUY-LADDER:START -->
-
-## 💸 Try MEOK in 30 seconds — instant buy ladder
-
-| Tier | Price | What you get | Stripe |
-|---|---|---|---|
-| Smoke test | **£1** | Signed sample MCP-Hardening report + Article 50 PDF | <https://buy.stripe.com/aFa7sNcgAdQS0ZT1Uc8k91t> |
-| Quick Kit | **£9** | EU AI Act Article 50 implementation guide (C2PA + EU-Icon) | <https://buy.stripe.com/aFa7sNcgAdQS0ZT1Uc8k91t> |
-| Founder Call | **£29** | 30-min 1-on-1 with the founder | <https://buy.stripe.com/aFa7sNcgAdQS0ZT1Uc8k91t> |
-
-> Refundable. UK Stripe — VAT-clean. Builds on the 81-MCP MEOK fleet.
-> Verify any signed report at <https://meok.ai/verify>.
-
-<!-- BUY-LADDER:END -->
 
 
 ## Configuration
