@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "chas-elite-prep-mcp"
 readme = "README.md"
-version = "1.0.10"
+version = "1.0.12"
 description = "CHAS / SafeContractor / Constructionline pre-qualification preparation. Health & safety, environmental, equality, financial assessment."
 license = {file = "LICENSE"}
 requires-python = ">=3.10"
@@ -17,7 +17,7 @@ classifiers = [
     "Operating System :: OS Independent",
     "Topic :: Software Development :: Libraries",
 ]
-dependencies = ["mcp>=1.0.0"]
+dependencies = ["mcp>=1.0.0,<2"]
 
 [project.urls]
 Homepage = "https://meok.ai"
